@@ -1,2 +1,2 @@
-# Data-scientist-projects
-I have completed certain projects for my data scientist skills
+# Deep Learning projects
+I have completed certain projects based on deep learning models 
